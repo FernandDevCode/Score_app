@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Guess Score - Football Match Predictor",
+  "description": "A web application to predict football match outcomes using AI. Select home and away teams from La Liga to get detailed predictions on the winner, score, and other stats.",
+  "requestFramePermissions": []
+}
